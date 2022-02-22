@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Food List</string>
+    <string name="lets_order">Lets Order</string>
+    <string name="heading">PieLove Anetto</string>
+    <string name="desc"> Lets taste the Pie Cake made by Chef Bimo Semesta </string>
+    <string name="category">Category</string>
+    <string name="popular_menu">Popular Menu</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="food_details">Food Details</string>
+    <string name="idr">IDR</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="detail">Detail</string>
+    <string name="checkout_now">Checkout Now</string>
+    <string name="text_cart">Halaman ini belum tersedia</string>
+    <string name="text_profile">Halaman profile belum tersedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
